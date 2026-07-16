@@ -1,39 +1,27 @@
 # Olivier Dreyer
 
-Senior strategy, operations and innovation leader focused on practical AI-enabled decision systems, workflow products and evidence-governed operating models.
+Senior strategy, operations and transformation leader with 15+ years across FinTech, Payments, SaaS and Life Sciences Technology.
 
-I work at the point where ambiguous business problems need to become usable systems: structured workflows, clear decision rules, human-in-the-loop controls, measurable quality gates and responsible AI boundaries.
+I work where strategic ambition needs to become operationally real: operating models, governance, commercial propositions, client experience, scalable delivery and measurable execution.
 
-## Current Focus
+## Areas of focus
 
-- AI-enabled workflow products for strategy, operations and talent decisions
-- Agentic AI as a practical delivery capability, not a slideware concept
-- Evidence controls, prompt governance, benchmark testing and review loops
-- Turning complex operating problems into deployable product prototypes
+- Strategy and operating-model transformation
+- Business operations, governance and execution cadence
+- Growth, monetisation and recurring-revenue design
+- Client experience, Voice of Customer and journey mapping
+- Practical AI-assisted workflows and automation
 
-## Featured Projects
+## Current build work
 
-### RoleStride
-Local-first candidate workflow prototype for profile setup, role assessment, opportunity management, application support, human review, backup/export and privacy-aware governance.
+I am designing and developing a private digital operating platform within a UK business. The aim is to centralise financial and operational data, standardise management workflows and create a foundation for automation and AI-assisted decision support.
 
-Demonstrates:
-- product ownership across a full candidate journey
-- evidence-led scoring and human review controls
-- local-first privacy boundaries
-- application-pack support with production generation disabled
-- CI/local validation discipline
+The work is in development. It is evidence of how I translate an operating problem into a structured product and workflow, not a claim of commercial SaaS traction or completed enterprise deployment.
 
-### Mock Exam Engine
-AI-assisted exam-practice and feedback workflow focused on structured learning, assessment quality and repeatable improvement loops.
+## How I use AI
 
-Demonstrates:
-- workflow design for learning and assessment
-- prompt and evidence-control thinking
-- practical use of AI-assisted build workflows
-- benchmark-style validation and iteration
+AI is one tool within a broader strategy and operations toolkit. I use it pragmatically for research, workflow design, automation, documentation, testing and decision support, with human ownership of judgement, quality and release decisions.
 
-## How To Read This Work
+## Professional profile
 
-These projects are portfolio evidence of product and operating-model capability: translating ambiguity into governed systems, using AI tools pragmatically, and building enough of the product to expose real design, data, workflow and validation tradeoffs.
-
-They are not claims of hosted SaaS traction or mass-market deployment. They show how I think, structure and deliver.
+- LinkedIn: https://www.linkedin.com/in/olivier-dreyer/
